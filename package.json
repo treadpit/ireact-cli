@@ -6,12 +6,26 @@
   "bin": {
     "ireact": "./index.js"
   },
-  "author": "treadpit",
-  "license": "MIT",
   "dependencies": {
     "commander": "^2.15.1",
     "git-clone": "^0.1.0",
     "shelljs": "^0.8.2",
     "tracer": "^0.8.15"
-  }
+  },
+  "author": "treadpit",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treadpit/ireact-cli.git"
+  },
+  "keywords": [
+    "react",
+    "cli",
+    "initialize"
+  ],
+  "author": "treadpit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/treadpit/ireact-cli/issues"
+  },
+  "homepage": "https://github.com/treadpit/ireact-cli#readme"
 }
