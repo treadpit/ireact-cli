@@ -1,0 +1,17 @@
+{
+  "name": "@treadpit/ireact-cli",
+  "version": "0.0.1",
+  "description": "initialize a react program by cli",
+  "main": "index.js",
+  "bin": {
+    "ireact": "./index.js"
+  },
+  "author": "treadpit",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.15.1",
+    "git-clone": "^0.1.0",
+    "shelljs": "^0.8.2",
+    "tracer": "^0.8.15"
+  }
+}
